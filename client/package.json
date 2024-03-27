@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bufferutil": "^4.0.8",
     "next": "14.1.4",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.0.1",
-    "react-pick-color": "^2.0.0"
+    "react-pick-color": "^2.0.0",
+    "socket.io-client": "^4.7.5",
+    "utf-8-validate": "^6.0.3",
+    "ws": "^8.16.0"
   },
   "devDependencies": {
     "@types/node": "^20",
